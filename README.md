@@ -1,5 +1,7 @@
 ﻿# GLF-MobileViT 实验复现说明
 
+开源地址：[Maxer-007/glf-mobilevit-repro](https://github.com/Maxer-007/glf-mobilevit-repro)
+
 本文件夹用于复现 GLF-MobileViT 的模型训练、参数调优、基线对比、消融实验、评估和可视化流程。根目录下的 `README.md` 用于说明实验环境、数据准备、运行方式和实验结果；实际代码、脚本和图表资源均放在同级的 `code/` 文件夹中。
 
 ## 文件结构
@@ -272,3 +274,4 @@ python scripts/summarize_results.py --runs-dir runs --output-dir results
 | `results/charts/top1_by_run.svg` | 各 run 的 Top-1 对比图 |
 | `results/charts/top1_by_group.svg` | 分组后的 Top-1 对比图 |
 | `results/charts/accuracy_curve_best.svg` | 最优 run 的训练/验证精度曲线 |
+
