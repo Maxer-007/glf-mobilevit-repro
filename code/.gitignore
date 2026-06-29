@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+runs/
+results/
+logs/
+eval_outputs/
+visual_outputs/
+*.pt
+*.pth
+

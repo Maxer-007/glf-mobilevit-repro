@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="560" viewBox="0 0 1800 560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="900.0" y="30" text-anchor="middle" font-size="20" font-family="Arial">Mean Best Top-1 by Hyperparameter Group</text>
+<text x="20" y="280.0" transform="rotate(-90 20 280.0)" text-anchor="middle" font-size="13" font-family="Arial">Mean Top-1 (%)</text>
+<line x1="70" y1="410" x2="1770" y2="410" stroke="#444"/>
+<line x1="70" y1="60" x2="70" y2="410" stroke="#444"/>
+<rect x="83.6" y="110.0" width="57.8" height="300.0" fill="#4C78A8"/>
+<text x="112.5" y="104.0" text-anchor="middle" font-size="11" font-family="Arial">82.75</text>
+<text x="112.5" y="428" text-anchor="end" transform="rotate(-45 112.5 428)" font-size="11" font-family="Arial">glf_base_lr0.0005_wd0.05_g0.01</text>
+<rect x="168.6" y="111.4" width="57.8" height="298.6" fill="#4C78A8"/>
+<text x="197.5" y="105.4" text-anchor="middle" font-size="11" font-family="Arial">82.66</text>
+<text x="197.5" y="428" text-anchor="end" transform="rotate(-45 197.5 428)" font-size="11" font-family="Arial">glf_base_lr0.0005_wd0.05_g0.01</text>
+<rect x="253.6" y="113.3" width="57.8" height="296.7" fill="#4C78A8"/>
+<text x="282.5" y="107.3" text-anchor="middle" font-size="11" font-family="Arial">82.53</text>
+<text x="282.5" y="428" text-anchor="end" transform="rotate(-45 282.5 428)" font-size="11" font-family="Arial">glf_base_lr0.0005_wd0.05_g0.01</text>
+<rect x="338.6" y="113.6" width="57.8" height="296.4" fill="#4C78A8"/>
+<text x="367.5" y="107.6" text-anchor="middle" font-size="11" font-family="Arial">82.51</text>
+<text x="367.5" y="428" text-anchor="end" transform="rotate(-45 367.5 428)" font-size="11" font-family="Arial">glf_base_lr0.0005_wd0.05_g0.01</text>
+<rect x="423.6" y="115.3" width="57.8" height="294.7" fill="#4C78A8"/>
+<text x="452.5" y="109.3" text-anchor="middle" font-size="11" font-family="Arial">82.40</text>
+<text x="452.5" y="428" text-anchor="end" transform="rotate(-45 452.5 428)" font-size="11" font-family="Arial">glf_base_lr0.0005_wd0.05_g0.0</text>
+<rect x="508.6" y="118.3" width="57.8" height="291.7" fill="#4C78A8"/>
+<text x="537.5" y="112.3" text-anchor="middle" font-size="11" font-family="Arial">82.20</text>
+<text x="537.5" y="428" text-anchor="end" transform="rotate(-45 537.5 428)" font-size="11" font-family="Arial">glf_base_lr0.0005_wd0.05_g0.01</text>
+<rect x="593.6" y="128.1" width="57.8" height="281.9" fill="#4C78A8"/>
+<text x="622.5" y="122.1" text-anchor="middle" font-size="11" font-family="Arial">81.55</text>
+<text x="622.5" y="428" text-anchor="end" transform="rotate(-45 622.5 428)" font-size="11" font-family="Arial">glf_base_lr0.0005_wd0.05_g0.01</text>
+<rect x="678.6" y="133.1" width="57.8" height="276.9" fill="#4C78A8"/>
+<text x="707.5" y="127.1" text-anchor="middle" font-size="11" font-family="Arial">81.22</text>
+<text x="707.5" y="428" text-anchor="end" transform="rotate(-45 707.5 428)" font-size="11" font-family="Arial">cnn_only_lr0.0005_wd0.05_g0.0</text>
+<rect x="763.6" y="136.4" width="57.8" height="273.6" fill="#4C78A8"/>
+<text x="792.5" y="130.4" text-anchor="middle" font-size="11" font-family="Arial">81.00</text>
+<text x="792.5" y="428" text-anchor="end" transform="rotate(-45 792.5 428)" font-size="11" font-family="Arial">mocovit_lite_lr0.0005_wd0.05_g0.0</text>
+<rect x="848.6" y="136.5" width="57.8" height="273.5" fill="#4C78A8"/>
+<text x="877.5" y="130.5" text-anchor="middle" font-size="11" font-family="Arial">80.99</text>
+<text x="877.5" y="428" text-anchor="end" transform="rotate(-45 877.5 428)" font-size="11" font-family="Arial">mobilevit_lite_lr0.0005_wd0.05_g0.0</text>
+<rect x="933.6" y="160.2" width="57.8" height="249.8" fill="#4C78A8"/>
+<text x="962.5" y="154.2" text-anchor="middle" font-size="11" font-family="Arial">79.42</text>
+<text x="962.5" y="428" text-anchor="end" transform="rotate(-45 962.5 428)" font-size="11" font-family="Arial">glf_base_lr0.0005_wd0.05_g0.0</text>
+<rect x="1018.6" y="160.8" width="57.8" height="249.2" fill="#4C78A8"/>
+<text x="1047.5" y="154.8" text-anchor="middle" font-size="11" font-family="Arial">79.38</text>
+<text x="1047.5" y="428" text-anchor="end" transform="rotate(-45 1047.5 428)" font-size="11" font-family="Arial">glf_base_lr0.0005_wd0.05_g0.0</text>
+<rect x="1103.6" y="161.1" width="57.8" height="248.9" fill="#4C78A8"/>
+<text x="1132.5" y="155.1" text-anchor="middle" font-size="11" font-family="Arial">79.36</text>
+<text x="1132.5" y="428" text-anchor="end" transform="rotate(-45 1132.5 428)" font-size="11" font-family="Arial">glf_base_lr0.0005_wd0.05_g0.01</text>
+<rect x="1188.6" y="303.6" width="57.8" height="106.4" fill="#4C78A8"/>
+<text x="1217.5" y="297.6" text-anchor="middle" font-size="11" font-family="Arial">69.90</text>
+<text x="1217.5" y="428" text-anchor="end" transform="rotate(-45 1217.5 428)" font-size="11" font-family="Arial">glf_small_lr0.0008_wd0.03_g0.0</text>
+<rect x="1273.6" y="303.8" width="57.8" height="106.2" fill="#4C78A8"/>
+<text x="1302.5" y="297.8" text-anchor="middle" font-size="11" font-family="Arial">69.89</text>
+<text x="1302.5" y="428" text-anchor="end" transform="rotate(-45 1302.5 428)" font-size="11" font-family="Arial">glf_small_lr0.0008_wd0.05_g0.0</text>
+<rect x="1358.6" y="330.0" width="57.8" height="80.0" fill="#4C78A8"/>
+<text x="1387.5" y="324.0" text-anchor="middle" font-size="11" font-family="Arial">68.15</text>
+<text x="1387.5" y="428" text-anchor="end" transform="rotate(-45 1387.5 428)" font-size="11" font-family="Arial">glf_small_lr0.0008_wd0.05_g0.0</text>
+<rect x="1443.6" y="333.9" width="57.8" height="76.1" fill="#4C78A8"/>
+<text x="1472.5" y="327.9" text-anchor="middle" font-size="11" font-family="Arial">67.89</text>
+<text x="1472.5" y="428" text-anchor="end" transform="rotate(-45 1472.5 428)" font-size="11" font-family="Arial">glf_small_lr0.0008_wd0.03_g0.0</text>
+<rect x="1528.6" y="347.8" width="57.8" height="62.2" fill="#4C78A8"/>
+<text x="1557.5" y="341.8" text-anchor="middle" font-size="11" font-family="Arial">66.97</text>
+<text x="1557.5" y="428" text-anchor="end" transform="rotate(-45 1557.5 428)" font-size="11" font-family="Arial">glf_small_lr0.0005_wd0.05_g0.0</text>
+<rect x="1613.6" y="349.8" width="57.8" height="60.2" fill="#4C78A8"/>
+<text x="1642.5" y="343.8" text-anchor="middle" font-size="11" font-family="Arial">66.84</text>
+<text x="1642.5" y="428" text-anchor="end" transform="rotate(-45 1642.5 428)" font-size="11" font-family="Arial">glf_small_lr0.0005_wd0.03_g0.0</text>
+<rect x="1698.6" y="360.0" width="57.8" height="50.0" fill="#4C78A8"/>
+<text x="1727.5" y="354.0" text-anchor="middle" font-size="11" font-family="Arial">66.16</text>
+<text x="1727.5" y="428" text-anchor="end" transform="rotate(-45 1727.5 428)" font-size="11" font-family="Arial">glf_small_lr0.0005_wd0.05_g0.0</text>
+</svg>
